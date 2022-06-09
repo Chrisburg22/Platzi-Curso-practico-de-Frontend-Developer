@@ -1,1 +1,1 @@
-# Platzi-Curso-practico-de-Frontend-Developer
+# Curso-Practico-De-CSS-HTML-Platzi
